@@ -1,0 +1,29 @@
+{
+  "name": "brainfuck",
+  "version": "1.0.0",
+  "description": "Brainfuck interpreter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nerwind/brainfuck-interpreter.git"
+  },
+  "keywords": [
+    "brainfuck",
+    "interpreter",
+    "javascript",
+    "typescript"
+  ],
+  "author": "nerwind93 <nerwindgd@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nerwind/brainfuck-interpreter/issues"
+  },
+  "homepage": "https://github.com/Nerwind/brainfuck-interpreter#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "types": "index.d.ts"
+}
